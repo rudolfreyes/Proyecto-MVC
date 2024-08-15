@@ -90,8 +90,7 @@
                 <div class="text-center mt-4">
                     <a class="btn btn-xl btn-outline-light" href="https://www.youtube.com/watch?v=1seDBXvGYcc">
                         <i class="fas fa-download me-2"></i>
-                        Curriculum Vitae
-                    </a>
+                        <h3 class="beautiful-title">Curriculum Vitae</h3> </a>
                 </div>
             </div>
         </section>
@@ -119,6 +118,7 @@
                         <form id="contactForm" action="conexion.php" method="post">
                             <!-- Name input-->
                             
+
 <!-- Name input-->
 <div class="form-floating mb-3">
     <input class="form-control" id="name" name="name" type="text" placeholder="Enter your name..." data-sb-validations="required" />
